@@ -3,7 +3,11 @@ Bart Massey
 
 ---
 
-*Your notes here.*
+Welp. For both parts, the program produced in the first try
+worked without my even examining it. Just blindly ran it and
+I was done.
+
+Huh.
 
 ---
 
