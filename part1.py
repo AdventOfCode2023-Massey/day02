@@ -1,3 +1,7 @@
+# Advent of Code 2023 Day 2 Part 1
+# Code by Github Copilot Chat
+# Editing by Bart Massey
+
 import sys
 import re
 
